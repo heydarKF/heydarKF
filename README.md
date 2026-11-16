@@ -1,15 +1,18 @@
  <div align="center">
 
-# Hey, I'm HeydarFakhr 👋
+# Hey, I'm Heydar Kazemifakhr 👋
 
 ### Backend-Focused Full-Stack Developer
 
-**Software Engineer | AI Engineer | Cybersecurity Specialist**
+**Software Engineer · AI Engineer · Cybersecurity Specialist**
 
-I design, build, optimize, and secure software systems.
+Building intelligent software, engineering robust systems, and exploring the boundaries of technology.
 
-[![Website](https://img.shields.io/badge/Website-rahjoowp.ir-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rahjoowp.ir)
+<br/>
+
+[![Website](https://img.shields.io/badge/Website-heydar.kazemifakhr.ir-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://heydar.kazemifakhr.ir)
 [![GitHub](https://img.shields.io/badge/GitHub-heydarKF-181717?style=for-the-badge&logo=github)](https://github.com/heydarKF)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:heydar313mamadi@gmail.com)
 
 </div>
 
@@ -19,80 +22,90 @@ I design, build, optimize, and secure software systems.
 
 I'm a Full-Stack Developer with a strong focus on **Backend Engineering, Software Architecture, and System Development**.
 
-I work across different areas of software engineering, from developing backend systems and cross-platform desktop applications to designing AI-powered solutions and managing secure server infrastructure.
+My work goes beyond traditional web development. I explore and build solutions across multiple areas of software engineering, including backend systems, cross-platform desktop applications, artificial intelligence, cybersecurity, and infrastructure management.
 
-I'm particularly interested in understanding how systems work internally, building efficient architectures, and solving complex technical challenges.
+I enjoy understanding how systems work internally, designing efficient architectures, solving complex technical problems, and building reliable software solutions.
 
-### What I Do
+My approach combines development, engineering, security, and system-level thinking.
 
-- Backend Engineering & Application Architecture
-- Full-Stack Web Development
-- Cross-Platform Desktop Application Development
-- AI Agent Development & AI Architecture
-- Cybersecurity & Ethical Hacking
-- Linux System Administration & Server Management
-- WordPress Development & Custom Solutions
-- Technical SEO & Content Strategy
+> **I don't just write code. I engineer systems, build solutions, and turn complex ideas into working software.**
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Core Expertise
 
-### Languages & Web Technologies
+### ⚙️ Backend Engineering
+- PHP Development
+- Object-Oriented Programming (OOP)
+- PHP MVC Architecture
+- Backend System Design
+- Software Architecture
+- Application Logic & System Development
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,php,sass" />
-</p>
-
-- PHP: Object-Oriented Programming & MVC Architecture
-- JavaScript
-- HTML5 & CSS3
+### 🌐 Full-Stack Web Development
+- HTML5, CSS3 & JavaScript
 - SCSS
-- Python: Basic Code Reading
-
-### Frameworks & Platforms
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=wordpress,electron" />
-</p>
-
-- WordPress Development
-- Custom Themes & Plugins
-- Elementor Development
-- Electron
 - CSS & JavaScript Frameworks
+- Responsive Web Development
+- Frontend & Backend Integration
 
-### AI Engineering
+### 🖥️ Desktop Application Development
+- Electron
+- Cross-Platform Desktop Applications
+- Windows & Linux Software Development
+- HTML, CSS & JavaScript-Based Desktop Solutions
 
+### 🤖 Artificial Intelligence Engineering
 - AI Agent Development
 - AI Architecture & System Design
-- Intelligent Application Development
+- Intelligent Software Systems
 - AI Integration & Automation
 
-### Cybersecurity
-
+### 🔐 Cybersecurity
+- Cybersecurity
 - Ethical Hacking
 - Web Application Security
-- Vulnerability Analysis
-- Security Assessment
+- Security Analysis
+- Vulnerability Assessment
 
-### Systems & Infrastructure
+### 🐧 Linux & Infrastructure
+- Linux System Administration
+- Server Management
+- Server Configuration
+- Deployment & Infrastructure Management
+
+### 🧩 WordPress Development
+- Custom WordPress Development
+- Theme & Plugin Development
+- Elementor Development
+- WordPress Customization
+
+### 📈 SEO & Content Strategy
+- Technical SEO
+- SEO Analysis
+- Content Analysis
+- Content Strategy
+- Content Development Consulting
+
+---
+
+## 🛠️ Technologies & Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=linux,bash,nginx,apache,docker,git,github" />
+<img src="https://skillicons.dev/icons?i=html,css,js,php,sass,python,electron,wordpress,linux,bash,nginx,apache,docker,git,github" />
 </p>
 
-- Linux Administration
-- Server Management
-- Deployment & Infrastructure
-- System Configuration
+---
 
-### SEO & Content Strategy
+## 🧠 Engineering Interests
 
-- Technical SEO
-- Content Analysis
-- Search Engine Optimization
-- Content Strategy & Consulting
+- Advanced Backend Engineering
+- Software Architecture & Design Patterns
+- Artificial Intelligence & AI Agents
+- Cybersecurity & Ethical Hacking
+- Linux Systems & Infrastructure
+- Desktop Application Engineering
+- Performance & Security Optimization
 
 ---
 
@@ -110,23 +123,21 @@ I'm particularly interested in understanding how systems work internally, buildi
 
 ---
 
-## 🎯 Current Focus
-
-- Advanced Backend Engineering
-- Software Architecture & Design Patterns
-- AI Agents & Intelligent Systems
-- Cybersecurity Research
-- Linux & Infrastructure Engineering
-
----
-
-## 🌐 Find Me Online
+## 🌐 Connect With Me
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-heydarKF-181717?style=for-the-badge&logo=github)](https://github.com/heydarKF)
+**Website**
 
-[![Website](https://img.shields.io/badge/Website-rahjoowp.ir-blue?style=for-the-badge&logo=googlechrome)](https://rahjoowp.ir)
+[heydar.kazemifakhr.ir](https://heydar.kazemifakhr.ir)
+
+**GitHub**
+
+[github.com/heydarKF](https://github.com/heydarKF)
+
+**Email**
+
+[heydar313mamadi@gmail.com](mailto:heydar313mamadi@gmail.com)
 
 </div>
 
@@ -134,8 +145,10 @@ I'm particularly interested in understanding how systems work internally, buildi
 
 <div align="center">
 
-### "I don't just build software. I engineer systems."
+### Beyond Code. Into Engineering.
 
 **Build · Understand · Optimize · Secure**
+
+*Always Learning. Always Building.*
 
 </div>
