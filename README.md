@@ -1,94 +1,97 @@
+ <div align="center">
 
-<div align="center">
-
-# Hey, I'm Heydar 👋
+# Hey, I'm HeydarFakhr 👋
 
 ### Backend-Focused Full-Stack Developer
 
-**Software Engineer · AI Engineer · Cybersecurity Enthusiast**
+**Software Engineer | AI Engineer | Cybersecurity Specialist**
 
-Building software, engineering systems, exploring AI, and securing infrastructure.
+I design, build, optimize, and secure software systems.
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,50:1e3a5f,100:0f172a&height=3" width="100%"/>
+[![Website](https://img.shields.io/badge/Website-rahjoowp.ir-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rahjoowp.ir)
+[![GitHub](https://img.shields.io/badge/GitHub-heydarKF-181717?style=for-the-badge&logo=github)](https://github.com/heydarKF)
 
 </div>
 
+---
+
 ## 👨‍💻 About Me
 
-I'm a Full-Stack Developer with a strong focus on Backend Engineering, software architecture, and system development.
+I'm a Full-Stack Developer with a strong focus on **Backend Engineering, Software Architecture, and System Development**.
 
-I enjoy building scalable applications, developing intelligent systems, exploring AI architectures, and working with Linux-based infrastructure.
+I work across different areas of software engineering, from developing backend systems and cross-platform desktop applications to designing AI-powered solutions and managing secure server infrastructure.
 
-My interests and expertise span multiple areas of software engineering:
+I'm particularly interested in understanding how systems work internally, building efficient architectures, and solving complex technical challenges.
 
-- Backend Development & Software Architecture
-- Full-Stack & Desktop Application Development
+### What I Do
+
+- Backend Engineering & Application Architecture
+- Full-Stack Web Development
+- Cross-Platform Desktop Application Development
 - AI Agent Development & AI Architecture
 - Cybersecurity & Ethical Hacking
-- Linux & Server Administration
-- WordPress Development & Technical SEO
+- Linux System Administration & Server Management
+- WordPress Development & Custom Solutions
+- Technical SEO & Content Strategy
 
-> I don't just write code. I build, understand, optimize, and secure systems.
+---
 
-## ⚡ Technical Skills
+## 🛠️ Tech Stack
 
-### 💻 Programming & Web Development
+### Languages & Web Technologies
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,php,python,sass" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,php,sass" />
 </p>
 
-- PHP (OOP, MVC Architecture)
-- JavaScript & Modern Web Development
-- HTML5, CSS3, SCSS
-- CSS & JavaScript Frameworks
-- Python (Basic Code Reading)
+- PHP: Object-Oriented Programming & MVC Architecture
+- JavaScript
+- HTML5 & CSS3
+- SCSS
+- Python: Basic Code Reading
 
-### 🖥️ Software Development
+### Frameworks & Platforms
 
-<p>
-<img src="https://skillicons.dev/icons?i=electron,wordpress" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=wordpress,electron" />
 </p>
 
-- Cross-platform Desktop Applications
-- Windows & Linux Software Development
-- Electron Application Development
-- Custom WordPress Development
-- WordPress Themes & Plugins
+- WordPress Development
+- Custom Themes & Plugins
 - Elementor Development
+- Electron
+- CSS & JavaScript Frameworks
 
-### 🤖 Artificial Intelligence
+### AI Engineering
 
 - AI Agent Development
-- AI System Architecture
-- Intelligent Application Design
+- AI Architecture & System Design
+- Intelligent Application Development
 - AI Integration & Automation
 
-### 🔐 Cybersecurity
+### Cybersecurity
 
 - Ethical Hacking
 - Web Application Security
-- Security Analysis
-- Vulnerability Assessment
+- Vulnerability Analysis
+- Security Assessment
 
-### 🐧 Infrastructure & Systems
+### Systems & Infrastructure
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=linux,bash,nginx,apache,docker,git,github" />
 </p>
 
-- Linux System Administration
+- Linux Administration
 - Server Management
-- Deployment & Configuration
-- Infrastructure Management
+- Deployment & Infrastructure
+- System Configuration
 
-### 📈 SEO & Content Strategy
+### SEO & Content Strategy
 
 - Technical SEO
 - Content Analysis
-- SEO Optimization
+- Search Engine Optimization
 - Content Strategy & Consulting
 
 ---
@@ -97,33 +100,33 @@ My interests and expertise span multiple areas of software engineering:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=heydarKF&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heydarKF&layout=compact&theme=tokyonight&hide_border=true" />
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+<img width="70%" src="https://streak-stats.demolab.com?user=heydarKF&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 🧠 Current Interests
+## 🎯 Current Focus
 
 - Advanced Backend Engineering
+- Software Architecture & Design Patterns
 - AI Agents & Intelligent Systems
-- Software Architecture
 - Cybersecurity Research
 - Linux & Infrastructure Engineering
 
 ---
 
-## 📫 Connect With Me
+## 🌐 Find Me Online
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/heydarKF)
+[![GitHub](https://img.shields.io/badge/GitHub-heydarKF-181717?style=for-the-badge&logo=github)](https://github.com/heydarKF)
+
+[![Website](https://img.shields.io/badge/Website-rahjoowp.ir-blue?style=for-the-badge&logo=googlechrome)](https://rahjoowp.ir)
 
 </div>
 
@@ -131,8 +134,8 @@ My interests and expertise span multiple areas of software engineering:
 
 <div align="center">
 
-### "Turning ideas into systems, and systems into solutions."
+### "I don't just build software. I engineer systems."
 
-**Always Building · Always Learning · Always Improving**
+**Build · Understand · Optimize · Secure**
 
 </div>
